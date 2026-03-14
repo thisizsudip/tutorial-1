@@ -40,7 +40,7 @@ header h1 {
   left: 0%;
   top: 65%;
 }
-banner h2 {
+.banner h2 {
   font-size: 74px;
 }
 .banner h2 span {
@@ -81,7 +81,7 @@ article h2 {
   font-size: 40px;
 }
 article p {
-  line-height: 2m;
+  line-height: 2em;
   color: black;
 }
 .images {
